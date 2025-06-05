@@ -9,34 +9,36 @@
 
 ###
 
-<div align="center">
-  <img align="left" height="125" src="https://pbs.twimg.com/profile_images/1842163563248640000/VJpt-jwm_400x400.jpg" alt="Hoshimachi Suisei" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="35" alt="godot logo"  />
-  <img align="right" height="125" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D122170004834368228&f=1&nofb=1&ipt=1f5c5ecb7772aef79cd58b8376efa6a791c7bd43a05758eb4bd5dea0e556d821" alt="Gigi Murin"  />
+<div align="center" style="display: flex; align-items: center; justify-content: center;">
+  <img style="margin-right: 30px;" height="125" src="https://pbs.twimg.com/profile_images/1842163563248640000/VJpt-jwm_400x400.jpg" alt="Hoshimachi Suisei" />
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <div style="display: flex; gap: 10px; margin-bottom: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript logo" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="35" alt="godot logo" />
+    </div>
+    <div style="display: flex; gap: 10px;">
+      <a href="https://www.linkedin.com/in/rhysbryn-cabural-b4a552325/" target="_blank">
+        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+      </a>
+      <a href="https://www.facebook.com/Rhysbryn" target="_blank">
+        <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" />
+      </a>
+      <a href="https://x.com/Rheezbrine" target="_blank">
+        <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo" />
+      </a>
+    </div>
+  </div>
+  <img style="margin-left: 30px;" height="125" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D122170004834368228&f=1&nofb=1&ipt=1f5c5ecb7772aef79cd58b8376efa6a791c7bd43a05758eb4bd5dea0e556d821" alt="Gigi Murin" />
 </div>
 
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/rhysbryn-cabural-b4a552325/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.facebook.com/Rhysbryn" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  </a>
-  <a href="https://x.com/Rheezbrine" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
+  
 </div>
 
 ###
