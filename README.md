@@ -12,31 +12,40 @@
 <table align="center">
   <tr>
     <td align="center" valign="middle">
-      <img height="125" src="https://pbs.twimg.com/profile_images/1842163563248640000/VJpt-jwm_400x400.jpg" alt="Hoshimachi Suisei" />
+      <img height="150" src="https://pbs.twimg.com/profile_images/1842163563248640000/VJpt-jwm_400x400.jpg" alt="Hoshimachi Suisei" />
     </td>
     <td align="center" valign="middle">
       <div>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo" />
+          &nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript logo" />
+          &nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo" />
+          &nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo" />
+          &nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo" />
+          &nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="35" alt="godot logo" />
+          &nbsp;
       </div>
       <div>
         <a href="https://www.linkedin.com/in/rhysbryn-cabural-b4a552325/" target="_blank">
           <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
         </a>
+          &nbsp;
         <a href="https://www.facebook.com/Rhysbryn" target="_blank">
           <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" />
         </a>
+          &nbsp;
         <a href="https://x.com/Rheezbrine" target="_blank">
           <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo" />
         </a>
+          &nbsp;
       </div>
     </td>
     <td align="center" valign="middle">
-      <img height="125" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D122170004834368228&f=1&nofb=1&ipt=1f5c5ecb7772aef79cd58b8376efa6a791c7bd43a05758eb4bd5dea0e556d821" alt="Gigi Murin" />
+      <img height="150" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D122170004834368228&f=1&nofb=1&ipt=1f5c5ecb7772aef79cd58b8376efa6a791c7bd43a05758eb4bd5dea0e556d821" alt="Gigi Murin" />
     </td>
   </tr>
 </table>
