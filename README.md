@@ -9,11 +9,12 @@
 
 ###
 
-<img align="left" height="125" src="https://pbs.twimg.com/profile_images/1842163563248640000/VJpt-jwm_400x400.jpg"  />
+
 
 ###
 
 <div align="center">
+  <img align="left" height="125" src="https://pbs.twimg.com/profile_images/1842163563248640000/VJpt-jwm_400x400.jpg"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
   <img width="32" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript logo"  />
@@ -25,6 +26,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
   <img width="32" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="35" alt="godot logo"  />
+  <img align="right" height="125" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D122170004834368228&f=1&nofb=1&ipt=1f5c5ecb7772aef79cd58b8376efa6a791c7bd43a05758eb4bd5dea0e556d821"  />
 </div>
 
 ###
@@ -41,7 +43,7 @@
   </a>
 </div>
 
-<img align="right" height="125" src="https://pbs.twimg.com/profile_images/1842163563248640000/VJpt-jwm_400x400.jpg"  />
+<!-- <img align="right" height="125" src="https://pbs.twimg.com/profile_images/1842163563248640000/VJpt-jwm_400x400.jpg"  /> -->
 
 ###
 
